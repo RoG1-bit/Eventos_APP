@@ -11,7 +11,7 @@ Aplicación móvil desarrollada en React Native para gestionar eventos y activid
 * **Integrante 4:** [Kevin] (Historial, Estadísticas y Diseño)
 
 ## 🎨 Diseños y MockUps
-* **Figma:** [El Integrante 4 debe pegar el link aquí]
+* **Figma:** https://www.figma.com/design/NwcS1X6Ky1QlifqdC9zYHo/Gesti%C3%B3n-de-Evento?node-id=1-8452&t=2sCEW1koi7DynW9v-1
 
 ## ⚖️ Licencia
 Este proyecto se distribuye bajo la licencia **Creative Commons Attribution 4.0 International (CC BY 4.0)**. 
